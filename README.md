@@ -7,7 +7,7 @@ Welcome to the **Explainable Brain Tumor Classification** project! Here, we turn
 - 🖼️ **MRI-Based Brain Tumor Classification**  
   Classifies MRI scans into different tumor types with high accuracy.  
 
-- 🔍 **Explainability with CAM Methods**  
+- 🔍 **Explainability with CAM-Based Methods**  
   See *exactly* where the model is looking! We use:  
   - **Grad-CAM** 🌟  
   - **Grad-CAM++** ⚡  

@@ -1,6 +1,6 @@
 # 🧠✨ Explainable Brain Tumor Classification
 
-Welcome to the **Explainable Brain Tumor Classification** project! Here, we turn **MRI scans** into actionable insights by classifying brain tumors 🧠 and making the model’s decisions interpretable using **state-of-the-art explainable AI (XAI) techniques** 🔍.
+- This project focuses on building an AI-powered framework for the detection and classification of brain tumors using MRI scans. Beyond classification, the key objective is to make the model’s decisions transparent and interpretable through modern Explainable AI (XAI) methods.
 
 ## 🚀 Features
 
